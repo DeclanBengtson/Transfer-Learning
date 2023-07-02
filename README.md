@@ -1,5 +1,5 @@
 # Transfer-Learning
-As part of a University course for Artificial Intelligence in teams of two we were required to develop a flower classifier using transfer learning on a neaural netwrok trained on the ImageNet dataset. <br/>
+As part of a University course for Artificial Intelligence, in teams of two, we were required to develop a flower classifier using transfer learning on a neural network trained on the ImageNet dataset. <br/>
 This model uses MobileNetV2 as the neural network architecture as it is the smallest of the available pretrained networks in keras. The project aimed to complete the following tasks:<br/>
 &ensp;&ensp;  •	Task 1: Using the tf.keras.applications module download a pretrained MobileNetV2
 network<br/>
